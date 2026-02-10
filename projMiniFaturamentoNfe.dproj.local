@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/10/12 00:19:18.000.622,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 12:22:51.000.164,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 12:23:50.000.339,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 12:28:35.000.372,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 12:47:19.000.920,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 19:12:41.000.069,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/10/12 19:51:43.000.078,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/12/17 17:19:42.000.187,=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/12/17 18:06:26.000.763,=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/03 22:07:33.000.115,=C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/03 22:20:14.000.218,C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\Unit1.dfm</Transaction>
+    <Transaction>2026/02/03 22:20:14.000.218,C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\Unit1.pas</Transaction>
+    <Transaction>2026/02/03 22:20:25.000.401,C:\Users\sandr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\projMiniFaturamentoNfe.dproj</Transaction>
+    <Transaction>2026/02/03 23:18:32.000.991,D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\Unit1.pas=</Transaction>
+    <Transaction>2026/02/03 23:18:53.000.193,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\view\fFaturamentoNfe.pas</Transaction>
+    <Transaction>2026/02/03 23:18:53.000.170,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\view\fCadastroCliente.pas</Transaction>
+    <Transaction>2026/02/03 23:31:39.000.737,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\service\uNfeAcbrService.pas</Transaction>
+    <Transaction>2026/02/03 23:31:39.000.759,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\service\uSefazSimuladorService.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.989,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uPedidoItemDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.884,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uNfeDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.965,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uPedidoDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.847,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uLogEventoDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.824,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uClienteDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.907,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uNfeEventoDto.pas</Transaction>
+    <Transaction>2026/02/03 23:31:54.000.931,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uNfeStatus.pas</Transaction>
+    <Transaction>2026/02/03 23:31:55.000.012,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dto\uProdutoDto.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.158,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uLogEventoDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.112,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uClienteDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.181,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uNfeDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.270,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uPedidoItemDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.305,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uProdutoDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.205,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uNfeEventoDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:09.000.246,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\dao\uPedidoDao.pas</Transaction>
+    <Transaction>2026/02/03 23:32:17.000.193,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\controller\uPedidoController.pas</Transaction>
+    <Transaction>2026/02/03 23:32:17.000.169,=D:\DesenvolvimentoGit\GitHub\MiniFaturamentoNfe\controller\uFaturamentoNfeController.pas</Transaction>
+    <Transaction>2026/02/08 21:52:36.000.050,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\Unit2.pas</Transaction>
+    <Transaction>2026/02/08 21:52:53.000.933,D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\Unit2.dfm=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\Unit2.dfm</Transaction>
+    <Transaction>2026/02/08 21:52:53.000.933,D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\Unit2.pas=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\Unit2.pas</Transaction>
+    <Transaction>2026/02/08 23:09:55.000.095,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\util\uStatusNfe.pas</Transaction>
+    <Transaction>2026/02/08 23:10:27.000.978,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\db\uDmConexao.pas</Transaction>
+    <Transaction>2026/02/08 23:10:43.000.659,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\controller\uClienteController.pas</Transaction>
+    <Transaction>2026/02/08 23:10:43.000.687,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\controller\uProdutoController.pas</Transaction>
+    <Transaction>2026/02/08 23:46:06.000.442,D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\Unit2.pas=</Transaction>
+    <Transaction>2026/02/09 00:10:18.000.497,D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\db\uDmConexao.pas=</Transaction>
+    <Transaction>2026/02/09 00:53:54.000.422,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\util\uUtils.pas</Transaction>
+    <Transaction>2026/02/09 01:16:22.000.463,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\service\uNfeXmlService.pas</Transaction>
+    <Transaction>2026/02/09 09:38:29.000.188,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\controller\uFaturamentoController.pas</Transaction>
+    <Transaction>2026/02/09 09:41:13.000.311,D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\controller\uFaturamentoNfeController.pas=</Transaction>
+    <Transaction>2026/02/09 23:46:47.419,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\fPesquisaCliente.pas</Transaction>
+    <Transaction>2026/02/10 00:04:03.112,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\fPesquisaProduto.pas</Transaction>
+    <Transaction>2026/02/10 00:20:00.039,=D:\DesenvolvimentoGit\Delphi\GitHub\SoftGran\MiniFaturamentoNfe\view\fPesquisaPedido.pas</Transaction>
+  </Transactions>
+</BorlandProject>
